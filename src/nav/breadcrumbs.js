@@ -25,10 +25,6 @@ const styles = theme => ({
 	lists: {
 		backgroundColor: theme.palette.background.paper,
 	},
-	// nested: {
-	// 	paddingLeft: theme.spacing.unit * 4,
-	// },
-
 });
 
 class RouterBreadcrumbs extends Component {
